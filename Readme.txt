@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Personal Website
 
+This was designed using:
 Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
