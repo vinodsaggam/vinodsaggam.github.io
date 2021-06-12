@@ -1,9 +1,7 @@
-### Personal Website
+# Personal Website
 
-This was designed using:
+URL: https://adebartolo.github.io/
 
 Template Name: iPortfolio
-
-Author: BootstrapMade.com
 
 License: https://bootstrapmade.com/license/
