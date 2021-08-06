@@ -1,2 +1,7 @@
-# saggamvinod.github.io
-Professional Potfolio
+# Professional Potfolio
+
+URL: https://saggamvinod.github.io/
+
+Template Name: iPortfolio
+
+License: https://bootstrapmade.com/license/
