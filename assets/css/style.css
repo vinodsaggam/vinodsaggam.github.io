@@ -213,7 +213,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://cdn.glitch.com/570da8f2-7844-48b1-9379-100223653ae1%2Fspace.jpg?v=1595737427004")
+  background: url("../img/bg.jpg")
     top center;
   background-size: cover;
 }
